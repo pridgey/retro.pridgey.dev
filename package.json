@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@bikeshaving/crank": "^0.1.2",
+    "htm": "^3.0.4",
+    "uuid": "^8.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@types/uuid": "^7.0.3",
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.8.3"
+  },
+  "name": "pridgey-crank",
+  "version": "1.0.0",
+  "description": "Quick UI library made with crank",
+  "main": "index.tsx",
+  "author": "Taylor J Pridgen",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
